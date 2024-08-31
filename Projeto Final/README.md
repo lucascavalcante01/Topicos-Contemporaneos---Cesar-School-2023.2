@@ -10,7 +10,7 @@ Um dataset de sua escolha deverá ser coletado e preparado para realizar o fine-
 - Congelamento de Camadas
 - Treinamento e Curvas de Desempenho
 
->Para este projeto, utilizou-se uma base de dados de imagens de raios-X pulmonares disponível no [Kaggle](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia/data) para a classificação de pneumonia. O problema foi abordado utilizando __Transfer Learning__ com a rede ResNet50.
+>Para este projeto, utilizou-se uma base de dados de imagens de raios-X pulmonares disponível no [Kaggle](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia/data) para a classificação de pneumonia. O problema foi abordado utilizando __Transfer Learning__ com a rede ResNet50. O arquivo com os pesos treinados pode ser baixado pelo link do [Google Drive](https://drive.google.com/file/d/1FZMzfj3cfHC0z3_amABEwiIIfupyjlns/view?usp=sharing).
 
 ## 2. Construção de um RAG utilizando LangChain
 
